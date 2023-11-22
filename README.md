@@ -33,21 +33,21 @@ https://ludii.games/download.php
 
     4.1. Create a Java project with existing sources.
 
-    A project with existing sources makes development easier.
-
-    Clone the code from this tutorial:
-
-    https://github.com/Ludeme/LudiiPythonAI
-
-    Use this project as an existing source for the new project with existing sources. New Project -> Java with Ant -> New java project with existing sources
+        A project with existing sources makes development easier.
+    
+        Clone the code from this tutorial:
+    
+        https://github.com/Ludeme/LudiiPythonAI
+    
+        Use this project as an existing source for the new project with existing sources. New Project -> Java with Ant -> New java project with existing sources
 
     4.2. Create a new project in Java.
 
-    When following this option, the Java code for calling the Python code will have to be developed from scratch.
-
-    Project example:
-
-    https://github.com/Ludeme/LudiiPythonAI
+        When following this option, the Java code for calling the Python code will have to be developed from scratch.
+    
+        Project example:
+    
+        https://github.com/Ludeme/LudiiPythonAI
 
 5. Add the previously created library to the project.
 
