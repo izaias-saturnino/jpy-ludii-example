@@ -7,11 +7,9 @@ Clone the following repository:
 
 https://github.com/jpy-consortium/jpy
 
-Depending on your operating system, use the tutorial at the following link in the "Build for Linux" and "Build for Windows" sections to create the necessary files through building the source code:
+Depending on your operating system, use the tutorial at the following link in the "Build for Linux" and "Build for Windows" sections to create the necessary files through building the source code. There may be errors in the build, but they usually have to do with the lack of dependencies, which can be resolved by installing them. If that is not the case, the build command may have the wrong options. When making this tutorial, the command "python setup.py build maven bdist_wheel" was used to build the files.
 
 https://jpy.readthedocs.io/en/latest/install.html
-
-There may be errors in the build, but they usually have to do with the lack of dependencies, which can be resolved by installing them.
 
 After doing this tutorial, these files should be obtained in the case of the Linux system:
 
