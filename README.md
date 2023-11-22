@@ -1,6 +1,8 @@
 # jpy-ludii-example
 A git repository with instructions and an example on how to use jpy with Ludii.
 
+The files available at this repository were built on a manjaro system with python 3.11 and a Intel processor, and may only work in a similar environment.
+
 1. Get base files for jpy.
 
 Clone the following repository:
